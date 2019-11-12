@@ -1,1 +1,1 @@
-# XO---Game
+# XO-Game implemented in Java.
